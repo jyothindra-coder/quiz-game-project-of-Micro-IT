@@ -26,8 +26,8 @@ This is a simple online quiz game implemented in Python using the `tkinter` libr
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone <https://github.com/jyothindra-coder/currency-converter-project-for-Micro-IT/tree/main?tab=readme-ov-file#currency-converter-project-for-micro-it>
+    cd <quiz-game-project-of-Micro-IT>
     ```
 
 2.  (Optional) Create a virtual environment:
