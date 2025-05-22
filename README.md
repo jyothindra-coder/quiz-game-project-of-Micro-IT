@@ -1,4 +1,4 @@
-# quiz-game-project-of-Micro-IT
+# quiz-game
 # Online Quiz Game
 make sure the files are in same directory .
 
